@@ -51,7 +51,7 @@ langchain-text-splitters==0.3.8
 langsmith==0.3.42
 llvmlite==0.44.0
 lxml==5.4.0
-lxml_html_clean==0.4.2
+lxml_html_clean==0.4.5
 MarkupSafe==3.0.2
 marshmallow==3.26.1
 matplotlib==3.9.4

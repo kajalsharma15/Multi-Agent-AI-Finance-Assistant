@@ -380,11 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for the beautiful UI framework
 - FastAPI for the high-performance backend
 
-## 📧 Contact
 
-For questions or feedback, reach out to Vansh at vansh.sethi98760@gmail.com or open an issue on GitHub.
-
----
 
 **⭐ If you find this project helpful, please consider giving it a star on GitHub!**
       
